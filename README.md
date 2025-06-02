@@ -95,3 +95,6 @@ This project is open source and available under the [MIT License](LICENSE).
 *Crafted with 💛 for the joy of watching digital ducks waddle in curly patterns*
 
 **Enjoy your Curly Waddle experience!** 🦆✨ Happy coding
+
+This repo was an old one that was left empty, the purpose of this project is to simply fill in a void. The name Curly Waddle
+was randomly selected for me from GitHub. So, I decided to make a very very simple and very easy project that supports the name. Please feel free to expand on this and make it mind blowing. 
