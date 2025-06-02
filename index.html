@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curly Waddle Duck Simulator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🦆 Curly Waddle Duck Simulator 🦆</h1>
+            <p>Click anywhere to make the ducks change direction!</p>
+        </header>
+        
+        <div class="game-area">
+            <canvas id="duckCanvas" width="800" height="600"></canvas>
+            <div class="controls">
+                <button id="addDuck">Add Duck 🦆</button>
+                <button id="addBreadcrumb">Throw Breadcrumb 🍞</button>
+                <button id="clearDucks">Clear All</button>
+            </div>
+        </div>
+        
+        <footer>
+            <p>Watch the ducks waddle in their curly patterns!</p>
+            <div class="stats">
+                <span>Ducks: <span id="duckCount">3</span></span>
+                <span>Breadcrumbs: <span id="breadcrumbCount">0</span></span>
+            </div>
+        </footer>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
